@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="title_login_page">Create Your Story!</string>
+    <string name="message_login_page">Login Now</string>
+    <string name="message_register_page">Register Now</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="copyright">© 2023 Trashure</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="description">Description</string>
+    <string name="camera">camera</string>
+    <string name="maps">Maps</string>
+    <string name="constant">Data</string>
+    <string name="login_error">Email dan password a</string>
+    <string name="login_success">Login Berhasil</string>
+    <string name="username_error">Masukkan username Anda</string>
+    <string name="email_error">Masukkan email Anda</string>
+    <string name="password_error">Masukkan password Anda</string>
+    <string name="email_input_error">Email dan password yang anda masukkan salah</string>
+    <string name="password_input_error">password yang anda masukkan salah</string>
+    <string name="add_description">Description</string>
+    <string name="register_error">Gagal membuat akun</string>
+    <string name="register_success">Berhasil membuat akun</string>
+    <string name="logout">Logout</string>
+    <string name="failed">Gagal membuat halaman</string>
+    <string name="failed_maps">Gagal membuat Maps</string>
+    <string name="camera_error">Gagal mengambil gambar</string>
+    <string name="permission_failed">Cannot Permission</string>
+    <string name="description_error">Masukkan deskripsi Anda</string>
+    <string name="story_success">Berhasil menambahkan story</string>
+    <string name="photo_error">Masukkan gambar Anda</string>
+    <string name="retry"> Coba Lagi</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="generalerorr">Failed</string>
+
+</resources>

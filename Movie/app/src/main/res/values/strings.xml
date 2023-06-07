@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Marvel Movies</string>
+    <string name="movie_name">Nama Movie</string>
+    <string name="description">Deskripsi</string>
+    <string name="pemeranfilm">Pemeran</string>
+    <string name="namapemeranfilm">Pemeran</string>
+    <string name="tanggalrilis">Tanggal Rilis</string>
+    <string name="inputtanggal">Tanggal Rilis</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="email">mhdhilalhmdy15@gmail.com</string>
+    <string name="namaprofile">M Hilal Alhamdy</string>
+    <string name="about">About Page</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="about_page">About</string>
+</resources>

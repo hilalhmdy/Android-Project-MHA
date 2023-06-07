@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".view.detail.DetailStoryActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/photoDetailStory"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/image_login"
+            android:transitionName="profile" />
+
+        <TextView
+            android:id="@+id/usernameDetailStory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="32dp"
+            android:paddingVertical="16dp"
+            android:text="Username"
+            android:textColor="@color/black"
+            android:textSize="32sp"
+            android:transitionName="name" />
+
+        <TextView
+            android:id="@+id/descriptionDetailStory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="32dp"
+            android:text="Test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test test test Test test Test test Test test Test test Test test Test test Test test Test test Test test Test testTest test Test test Test test Test test Test test Test test Test test Test test Test test "
+            android:textSize="20sp"
+            android:transitionName="description" />
+
+    </LinearLayout>
+
+</ScrollView>
